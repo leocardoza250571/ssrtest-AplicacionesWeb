@@ -1,0 +1,29 @@
+{
+  "name": "ssrtest",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This is a test for next.js and server-side rendering",
+  "main": "app.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leocardoza250571/ssrtest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leocardoza250571/ssrtest/issues"
+  },
+  "homepage": "https://github.com/leocardoza250571/ssrtest#readme",
+  "dependencies": {
+    "next": "^16.3.6",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
